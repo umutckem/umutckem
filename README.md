@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Umutcan Kemahlı</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Umutcan Kemahlı</h1>
+<h3 align="center">I am a 3rd-year student at Isparta University of Applied Sciences, specializing in Backend Development. I have gained experience in C#, Python, SQL databases, and C++. Currently, I am focusing on enhancing my skills in C# by developing APIs using .NET MAUI. I have successfully created several programs and am continually working on new projects to expand my expertise.
+
+Isparta Uygulamalı Bilimler Üniversitesi'nde 3. sınıf öğrencisiyim ve Backend Developer olarak kendimi geliştirme yolundayım. C#, Python, SQL veri tabanı ve C++ gibi dersler aldım. Şu aralar C# üzerine yoğunlaşıyor ve .NET MAUI kullanarak API'ler geliştiriyorum. Yaptığım birkaç program var ve sürekli olarak yeni projeler üzerinde çalışarak uzmanlığımı genişletiyorum.</h3>
 
 - 🔭 I’m currently working on **C#**
 
