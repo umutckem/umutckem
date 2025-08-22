@@ -14,9 +14,9 @@ C# ve Python ile projeler geliştiriyor, .NET teknolojileriyle API ve veritaban�
 <p align="left">
 <a href="https://linkedin.com/in/umutcan kemahlı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutcan kemahlı" height="30" width="40" /></a>
 <a href="https://umutcankemahli.com.tr/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" 
-    alt="umutcan kemahlı website" height="30" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="30" width="40" />
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
