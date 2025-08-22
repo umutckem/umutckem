@@ -1,15 +1,14 @@
 <h1 align="center">Umutcan Kemahlı</h1>
-<h3 align="center">I am a 3rd-year student at Isparta University of Applied Sciences, specializing in Backend Development. I have gained experience in C#, Python, SQL databases, and C++. Currently, I am focusing on enhancing my skills in C# by developing APIs using .NET MAUI. I have successfully created several programs and am continually working on new projects to expand my expertise.
+<h3 align="center">
+I develop projects using C# and Python, creating APIs and database-driven applications with .NET technologies. I am constantly learning and turning the knowledge I gain into real-world, value-generating projects.
 
-.
+<br><br>
+C# ve Python ile projeler geliştiriyor, .NET teknolojileriyle API ve veritabanı tabanlı uygulamalar üretiyorum. Sürekli öğrenmeye ve edindiğim bilgileri gerçek dünyada değer üreten projelere dönüştürmeye odaklanıyorum.
+</h3>
 
-Isparta Uygulamalı Bilimler Üniversitesi'nde 3. sınıf öğrencisiyim ve Backend Developer olarak kendimi geliştirme yolundayım. C#, Python, SQL veri tabanı ve C++ gibi dersler aldım. Şu aralar C# üzerine yoğunlaşıyor ve .NET MAUI kullanarak API'ler geliştiriyorum. Yaptığım birkaç program var ve sürekli olarak yeni projeler üzerinde çalışarak uzmanlığımı genişletiyorum.</h3>
-
-- 🔭 I’m currently working on **C#**
-
-- 💬 Ask me about **BackEnd**
-
-- 📫 How to reach me **umutcankemahli637@gmail.com**
+- 🔭 I’m currently working on **C# and .NET MAUI**
+- 💬 Ask me about **Backend Development, APIs, and Databases**
+- 📫 How to reach me: **umutcankemahli637@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
