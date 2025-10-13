@@ -1,5 +1,5 @@
-<h1 align="center">👋 Merhaba, ben Umutcan Kemahlı</h1>
-<h3 align="center">💻 Türkiye'den tutkulu bir Ön Uç Geliştiricisi</h3>
+<h1 align="center"><strong>Umutcan Kemahlı</strong></h1>
+<h3 align="center">💻 Backend Developer | Türkiye</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umutckem&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="umutckem" />
